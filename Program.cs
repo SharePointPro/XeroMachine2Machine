@@ -22,7 +22,7 @@ namespace XeroMachine2Machine
             //   args = new string[2]
             //{
             //       CliCommands.INIT,
-            //       "f4ffdd230cb629c3586d59bfe224d8928f73079645f0a94078d38fda8343f8c9"
+            //       "<Initial refresh token from xoauth>"
             //};
 
             // Initialize serilog logger
